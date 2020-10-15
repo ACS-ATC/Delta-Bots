@@ -1,0 +1,35 @@
+
+;############################################################################################
+;IGNORE LINES STARTING WITH ;#
+;#paste this into cura only, on the start/end Gcode tab.
+;#as of 15/10/20 commit 1 these have not been tested in slic3r and if a gcode config is made
+:#for slic3r it will be uploaded seperately.
+;############################################################################################
+
+
+;Basic settings: Layer height: {layer_height} Walls: {wall_thickness} Fill: {fill_density}
+;Print time: {print_time}
+;Filament used: {filament_amount}m {filament_weight}g
+;Filament cost: {filament_cost}
+;M190 S{print_bed_temperature} ;Uncomment to add your own bed temperature line
+;M109 S{print_temperature} ;Uncomment to add your own temperature line
+G21        ;metric values
+G90        ;absolute positioning
+M107       ;start with the fan off
+G28   ;move to endstops
+G92 E0                  ;zero the extruded length
+G1 F200 E3              ;extrude 3mm of feed stock
+G92 E0                  ;zero the extruded length again
+G1 F{travel_speed}
+
+;these settings are new
+G28 
+G29
+G33 P1 ; (This only verifies and sets your Z-height)
+G33 P2 ; (This only probes the center and each tower)
+G33 P5 ; (This probes more points, for a slightly higher calibration precision)
+G33 P10 ; (This probes many more points for even higher calibration precision)
+;end of new settings
+
+;Put printing message on LCD screen
+M117 Printing...
