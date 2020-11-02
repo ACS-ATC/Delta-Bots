@@ -18,6 +18,7 @@ Check the WiKi on PR's and bugfixes
 ### [RepRap.org Wiki Page](http://reprap.org/wiki/Marlin)
 
 ## Credits
+These guys did the actual work we just made their code messier and do somethings probably really badly. 
 
 The current Marlin dev team consists of:
  - Roxanne Neufeld [[@Roxy-3D](https://github.com/Roxy-3D)] - English
@@ -26,6 +27,9 @@ The current Marlin dev team consists of:
  - Chris Pepper [[@p3p](https://github.com/p3p)] - English
  - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portuguese, English
 
+ATC Team: 
+  -Ash Indigo [[AshIndigo](https://github.com/AshIndigo)]
+  -Iliyan Jivraj [[iliyan61](https://github.com/iliyan61)]
 ## License
 
 Marlin is published under the [GPL license](/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
