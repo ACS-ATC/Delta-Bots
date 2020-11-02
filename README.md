@@ -29,9 +29,9 @@ The current Marlin dev team consists of:
 
 ATC Team:
 
-  -Ash Indigo [[AshIndigo](https://github.com/AshIndigo)]
+  -[[AshIndigo](https://github.com/AshIndigo)]
 
-  -Iliyan Jivraj [[iliyan61](https://github.com/iliyan61)]
+  -[[iliyan61](https://github.com/iliyan61)]
 ## License
 
 Marlin is published under the [GPL license](/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
