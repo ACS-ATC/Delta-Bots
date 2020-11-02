@@ -11,14 +11,6 @@ Additional documentation can be found at the [Marlin Home Page](http://marlinfw.
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
-## Building Marlin 2.0
-
-To build Marlin 2.0 you'll need [Arduino IDE 1.9](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide). We've posted detailed instructions on how to [build Marlin 2.0 for ARM](http://marlinfw.org/docs/basics/install_arm.html).
-
-## Hardware Abstraction Layer (HAL)
-
-Marlin 2.0 adds a new abstraction layer so that Marlin can build and run on 32-bit boards while still retaining full 8-bit AVR compatibility. In this way, features can be enhanced for more powerful platforms while still supporting AVR, whereas splitting up the code would make it harder to maintain and keep everything in sync.
-
 ## Submitting Patches
 
 Check the WiKi on PR's and bugfixes
