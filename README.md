@@ -3,8 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iliyan61/iliyan61/graphs/commit-activity)
 ![Build Status](https://img.shields.io/badge/Build%20Passing%3F-Probs%20not-blue)
 
-<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
-<img align="top" width=175 src="atc.png" />
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" /><img align="top" width=175 src="atc.png" />
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 
