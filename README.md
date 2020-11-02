@@ -1,7 +1,8 @@
 # Marlin 3D Printer Firmware
 
-[![Build Status](https://img.shields.io/badge/Build-Status%3F-yes-green.svg)](https://github.com/iliyan61/iliyan61/graphs/commit-activity)
+[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/iliyan61/iliyan61/graphs/commit-activity)
+[![Build Status](https://img.shields.io/badge/Build%20Passing%3F-Probs%20not-blue)]
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
