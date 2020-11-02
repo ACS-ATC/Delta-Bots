@@ -27,9 +27,10 @@ The current Marlin dev team consists of:
  - Chris Pepper [[@p3p](https://github.com/p3p)] - English
  - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portuguese, English
 
-ATC Team: 
+ATC Team:
+
   -Ash Indigo [[AshIndigo](https://github.com/AshIndigo)]
-  
+
   -Iliyan Jivraj [[iliyan61](https://github.com/iliyan61)]
 ## License
 
