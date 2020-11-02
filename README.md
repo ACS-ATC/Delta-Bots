@@ -5,6 +5,8 @@
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
+<img align="top" width=175 src="atc.png" />
+
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 
 ## Marlin 2.0 Bugfix Branch
